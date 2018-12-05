@@ -1,0 +1,28 @@
+{
+  "name": "age-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilsky/age-calculator.git"
+  },
+  "keywords": [
+    "age",
+    "calculator"
+  ],
+  "author": "akhilesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilsky/age-calculator/issues"
+  },
+  "homepage": "https://github.com/akhilsky/age-calculator#readme",
+  "dependencies": {
+    "full-age-calculator": "0.0.4",
+    "i": "^0.3.6",
+    "npm": "^6.4.1"
+  }
+}
